@@ -2,6 +2,12 @@
 
 ## Automação de Sistemas e Processos com Python
 
+### Conteúdo
+- Automação
+- Importar base de dados
+- Controlar mouse e teclado
+- Enviar email automático
+
 ### Tecnologias Utilizadas
 #### Python: 3.10
 
