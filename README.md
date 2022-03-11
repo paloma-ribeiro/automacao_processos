@@ -2,6 +2,10 @@
 
 ## Automação de Sistemas e Processos com Python
 
+### Descrição do Desafio
+
+#### Todos os dias, o nosso sistema atualiza as vendas do dia anterior. O seu trabalho, como analista, é enviar um email para a diretoria, assim que começa a trabalhar, com o faturamento e a quantidade de produtos vendidos no dia anterior.
+
 ### Conteúdo
 - Automação
 - Importar base de dados
