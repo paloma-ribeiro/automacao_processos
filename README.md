@@ -18,10 +18,10 @@
 - PyAutoGUI: 0.9.53
 - pyperclip: 1.8.2
 
-### Instalação das depências
+### Instalação das dependências
 > pip install -r requirements.txt
 
-### Instalação das depências (forma alternativa)
+### Instalação das dependências (forma alternativa)
 ####  pip install pyautogui
 ####  pip install pyperclip
 ####  pip install pandas
